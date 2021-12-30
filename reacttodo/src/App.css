@@ -1,0 +1,7 @@
+.App {
+  text-align: left;
+}
+.card {
+  box-shadow: 4px 4px 4px 4px rgb(255, 255, 159);
+  /* width: clamp(70vw, 80vw, 90vw); */
+}
